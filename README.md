@@ -1,5 +1,5 @@
-# [XGC Quality Assessment - Track 3: Talking Head (NTIRE Workshop and Challenges @ CVPR 2025)](https://github.com/zyj-2000/THQA-NTIRE)
-This is the official implementation code of our team: ''FocusQ''
+# [🚀XGC Quality Assessment - Track 3: Talking Head (NTIRE Workshop and Challenges @ CVPR 2025)](https://github.com/zyj-2000/THQA-NTIRE)
+This is the official implementation code from our team, 'FocusQ', which ranked 6th.
 ## 1. Prepare environment
 ### Installation with the requirement.txt
 ```
