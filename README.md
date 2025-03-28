@@ -31,6 +31,7 @@ You can manually modify the relevant file paths in the `train.sh` file, and then
 ```
 bash train.sh
 ```
+Please note that our code runs on a single H100 with 80GB of VRAM. If your VRAM is lower, please reduce the batch_size and adjust the learning rate accordingly.
 
 ## 3. Test the model
 ### 3.1 Extract video frames from the test dataset.
