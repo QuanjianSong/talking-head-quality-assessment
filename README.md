@@ -32,7 +32,7 @@
 • <strong>2024.05</strong>: 🔥 The official code of our team is now available.
 </pre>
 
-[2025 XGC Quality Assessment - Track 3: Talking Head](https://github.com/zyj-2000/THQA-NTIRE).
+
   
 ## 🔧 Environment
 ```
