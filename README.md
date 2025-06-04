@@ -1,5 +1,39 @@
+<div align="center">
+<h1>
+XGC Quality Assessment - Track 3: Talking Head (NTIRE Workshop and Challenges @ CVPR 2025) [Official Code of PyTorch]
+</h1>
 # [🚀XGC Quality Assessment - Track 3: Talking Head (NTIRE Workshop and Challenges @ CVPR 2025)](https://github.com/zyj-2000/THQA-NTIRE)
-This is the official implementation code from our team, 'FocusQ', which ranked 6th.
+
+<p align="center">
+    <span>
+        <a href="https://huggingface.co/papers/2506.02875" target="_blank"> 
+        <img src='https://img.shields.io/badge/arXiv%202506.02875-NTIRE_2025-red' alt='Paper PDF'></a> &emsp;  &emsp; 
+    </span>
+    <span>
+        <a href="https://github.com/zyj-2000/THQA-NTIRE" target="_blank"> 
+        <img src='XXX' alt='Project Page'></a> &emsp;  &emsp; 
+    </span>
+
+    <span>
+        <a href="https://huggingface.co/papers/2506.02875" target="_blank"> 
+        <img src='Hugging_Face-NTIRE_2025-yellow' alt='Hugging Face'></a> &emsp;  &emsp; 
+    </span>
+
+  
+</p>
+
+</div>
+
+---
+
+## 🔥🔥🔥 News
+<pre>
+• <strong>2024.10.26</strong>: 🔥 Our team, 'FocusQ' achieved 6th place in the <a href="[https://example.com](https://github.com/zyj-2000/THQA-NTIRE)">2025 XGC Quality Assessment - Track 3: Talking Head.</a>
+• <strong>2024.10.26</strong>: 🔥 The official code of our team is now available.
+</pre>
+
+[2025 XGC Quality Assessment - Track 3: Talking Head](https://github.com/zyj-2000/THQA-NTIRE).
+  
 ## 1. Prepare environment
 ### Installation with the requirement.txt
 ```
