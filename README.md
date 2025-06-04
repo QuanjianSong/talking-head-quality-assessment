@@ -36,10 +36,14 @@
   
 ## 🔧 Environment
 ```
+# Git clone the repo
+git clone https://github.com/QuanjianSong/talking-head-quality-assessment.git
+
 # Installation with the requirement.txt
 conda create -n NTIRE25 python=3.10
 conda activate NTIRE25
 pip install -r requirements.txt
+
 # Or installation with the environment.yaml
 conda env create -f environment.yaml
 ```
