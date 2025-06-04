@@ -28,7 +28,7 @@
 
 ## 🎉  News
 <pre>
-• <strong>2024.04</strong>: 🔥 Our team, 'FocusQ', achieved 6th place in the <a href="[https://example.com](https://github.com/zyj-2000/THQA-NTIRE)">2025 XGC Quality Assessment - Track 3: Talking Head.</a>
+• <strong>2024.04</strong>: 🔥 Our team, 'FocusQ', achieved 6th place in the <a href="https://github.com/zyj-2000/THQA-NTIRE">2025 XGC Quality Assessment - Track 3: Talking Head</a>.
 • <strong>2024.05</strong>: 🔥 The official code of our team is now available.
 </pre>
 
