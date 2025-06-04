@@ -7,7 +7,7 @@
 
 <p align="center">
     <span>
-        <a href="https://huggingface.co/papers/2506.02875" target="_blank"> 
+        <a href="https://arxiv.org/abs/2506.02875" target="_blank"> 
         <img src='https://img.shields.io/badge/arXiv%202506.02875-NTIRE_2025-red' alt='Paper PDF'></a> &emsp;  &emsp; 
     </span>
     <span>
