@@ -26,7 +26,7 @@
 
 ---
 
-## 🎉  News
+## 🎉 News
 <pre>
 • <strong>2024.05</strong>: 🔥 The official code of our team -- 'FocusQ',is now available.
 • <strong>2024.04</strong>: 🔥 Our team -- 'FocusQ', achieved 6th place in the <a href="https://codalab.lisn.upsaclay.fr/competitions/21555" target="_blank">2025 XGC Quality Assessment - Track 3: Talking Head</a>.
@@ -47,6 +47,12 @@ pip install -r requirements.txt
 # Or installation with the environment.yaml
 conda env create -f environment.yaml
 ```
+
+## 📖 Dataset
+You can download the XGC Quality Assessment - Track 3: Talking Head dataset from this <a href="https://huggingface.co/datasets/zyj2000/THQA-NTIRE/tree/main" target="_blank">link</a>.
+
+
+
 
 ## 🔥 Train
 #### ► 1.Extract video frames from the training dataset.
