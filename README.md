@@ -33,7 +33,7 @@
 </pre>
 
 ## 🎬 Overview
-Official Implementation Code of Our Team ''FocusQ'' in XGC Quality Assessment - Track 3: Talking Head
+Official Implementation Code of Our Team ''FocusQ'' in XGC Quality Assessment - Track 3: Talking Head.
   
 ## 🔧 Environment
 ```
