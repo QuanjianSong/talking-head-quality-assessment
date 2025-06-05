@@ -32,7 +32,8 @@
 • <strong>2024.04</strong>: 🔥 Our team -- 'FocusQ', achieved 6th place in the <a href="https://codalab.lisn.upsaclay.fr/competitions/21555" target="_blank">2025 XGC Quality Assessment - Track 3: Talking Head</a>.
 </pre>
 
-
+## 🎬 Overview
+Official Implementation Code of Our Team ''FocusQ'' in XGC Quality Assessment - Track 3: Talking Head
   
 ## 🔧 Environment
 ```
