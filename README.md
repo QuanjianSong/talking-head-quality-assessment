@@ -34,7 +34,8 @@
 </pre>
 
 ## 🎬 Overview
-Official Implementation Code of Our Team ''FocusQ'' in XGC Quality Assessment - Track 3: Talking Head.
+Official Implementation Code of Our Team 'FocusQ' in XGC Quality Assessment - Track 3: Talking Head.
+The detailed information can be found in the <a href="https://github.com/zyj-2000/THQA-NTIRE" target="_blank">official repository</a>.
   
 ## 🔧 Environment
 ```
