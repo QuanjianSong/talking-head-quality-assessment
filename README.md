@@ -97,7 +97,7 @@ bash test.sh
 ```
 
 ## 🎓 Bibtex
-If you find this code helpful for your research, please cite:
+🤗 If you find this code helpful for your research, please cite:
 ```
 @misc{liu2025ntire2025xgcquality,
       title={NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results}, 
