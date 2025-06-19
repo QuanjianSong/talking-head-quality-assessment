@@ -28,7 +28,7 @@
 
 ## 🎉 News
 <pre>
-• <strong>2024.05</strong>: 🔥 Our report has been accepted to the 2025 CVPR Workshop.   
+• <strong>2024.06</strong>: 🔥 Our report has been accepted to the 2025 CVPR Workshop.   
 • <strong>2024.05</strong>: 🔥 The official code of our team -- 'FocusQ',is now available.
 • <strong>2024.04</strong>: 🔥 Our team -- 'FocusQ', achieved 6th place in the <a href="https://codalab.lisn.upsaclay.fr/competitions/21555" target="_blank">2025 XGC Quality Assessment - Track 3: Talking Head</a>.
 </pre>
