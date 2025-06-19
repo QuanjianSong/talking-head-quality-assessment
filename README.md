@@ -28,6 +28,7 @@
 
 ## 🎉 News
 <pre>
+• <strong>2024.05</strong>: 🔥 Our report has been accepted to the 2025 CVPR Workshop.   
 • <strong>2024.05</strong>: 🔥 The official code of our team -- 'FocusQ',is now available.
 • <strong>2024.04</strong>: 🔥 Our team -- 'FocusQ', achieved 6th place in the <a href="https://codalab.lisn.upsaclay.fr/competitions/21555" target="_blank">2025 XGC Quality Assessment - Track 3: Talking Head</a>.
 </pre>
@@ -56,19 +57,19 @@ You can download the XGC Quality Assessment - Track 3: Talking Head dataset from
 
 
 ## 🔥 Train
-#### ► 1.Extract video frames from the training dataset.
+#### • 1.Extract video frames from the training dataset.
 You can manually modify the relevant file paths in the `extract_frames.sh` file, and then execute the following command to extract video frames from the training dataset:
 ```
 bash extract_frames.sh # for training dataset
 ```
 
-#### ► 2.Extract motion features from the training dataset
+#### • 2.Extract motion features from the training dataset
 You can manually modify the relevant file paths in the `extract_features.sh` file, and then execute the following command to extract motion features from the training dataset:
 ```
 bash extract_features.sh # for training dataset
 ```
 
-#### ► 3.Train the model
+#### • 3.Train the model
 You can manually modify the relevant file paths in the `train.sh` file, and then execute the following command to start training:
 ```
 bash train.sh
@@ -76,19 +77,19 @@ bash train.sh
 Please note that our code runs on a single H100 with 80GB of VRAM. If your VRAM is lower, please reduce the batch_size and adjust the learning rate accordingly.
 
 ## 🌈 Test
-### ►3.Extract video frames from the test dataset.
+#### • 1.Extract video frames from the test dataset.
 Before testing, you also need to modify the relevant paths in the `extract_frames.sh` file, and then execute the following command to extract video frames from the test dataset:
 ```
 bash extract_frames.sh # for test dataset
 ```
 
-### ►3.Extract motion features from the test dataset
+#### • 2.Extract motion features from the test dataset
 Before testing, you also need to modify the relevant paths in the `extract_features.sh` file, and then execute the following command to extract video frames from the test dataset:
 ```
 bash extract_features.sh # for test dataset
 ```
 
-### ►3.Start testing
+#### • 3.Start testing
 Finally, you can modify the relevant paths in `test.sh`, and then run the following command to start the testing:
 ```
 bash test.sh
