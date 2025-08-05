@@ -77,7 +77,7 @@ bash train.sh
 ```
 Please note that our code runs on a single H100 with 80GB of VRAM. If your VRAM is lower, please reduce the batch_size and adjust the learning rate accordingly.
 
-## 🌈 Test
+## 🚀 Test
 #### • 1.Extract video frames from the test dataset.
 Before testing, you also need to modify the relevant paths in the `extract_frames.sh` file, and then execute the following command to extract video frames from the test dataset:
 ```
