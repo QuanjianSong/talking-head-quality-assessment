@@ -99,13 +99,11 @@ bash test.sh
 ## 🎓 Bibtex
 🤗 If you find this code helpful for your research, please cite:
 ```
-@misc{liu2025ntire2025xgcquality,
-      title={NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results}, 
-      author={Xiaohong Liu and Xiongkuo Min and Qiang Hu and Xiaoyun Zhang and Jie Guo and Guangtao Zhai and Shushi Wang and Yingjie Zhou and Lu Liu and Jingxin Li and Liu Yang and Farong Wen and Li Xu and Yanwei Jiang and Xilei Zhu and Chunyi Li and Zicheng Zhang and Huiyu Duan and Xiele Wu and Yixuan Gao and Yuqin Cao and Jun Jia and Wei Sun and Jiezhang Cao and Radu Timofte and Baojun Li and Jiamian Huang and Dan Luo and Tao Liu and Weixia Zhang and Bingkun Zheng and Junlin Chen and Ruikai Zhou and Meiya Chen and Yu Wang and Hao Jiang and Xiantao Li and Yuxiang Jiang and Jun Tang and Yimeng Zhao and Bo Hu and Zelu Qi and Chaoyang Zhang and Fei Zhao and Ping Shi and Lingzhi Fu and Heng Cong and Shuai He and Rongyu Zhang and Jiarong He and Zongyao Hu and Wei Luo and Zihao Yu and Fengbin Guan and Yiting Lu and Xin Li and Zhibo Chen and Mengjing Su and Yi Wang and Tuo Chen and Chunxiao Li and Shuaiyu Zhao and Jiaxin Wen and Chuyi Lin and Sitong Liu and Ningxin Chu and Jing Wan and Yu Zhou and Baoying Chen and Jishen Zeng and Jiarui Liu and Xianjin Liu and Xin Chen and Lanzhi Zhou and Hangyu Li and You Han and Bibo Xiang and Zhenjie Liu and Jianzhang Lu and Jialin Gui and Renjie Lu and Shangfei Wang and Donghao Zhou and Jingyu Lin and Quanjian Song and Jiancheng Huang and Yufeng Yang and Changwei Wang and Shupeng Zhong and Yang Yang and Lihuo He and Jia Liu and Yuting Xing and Tida Fang and Yuchun Jin},
-      year={2025},
-      eprint={2506.02875},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.02875}, 
+@inproceedings{liu2025ntire,
+  title={NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results},
+  author={Liu, Xiaohong and Min, Xiongkuo and Hu, Qiang and Zhang, Xiaoyun and Guo, Jie and Zhai, Guangtao and Wang, Shushi and Zhou, Yingjie and Liu, Lu and Li, Jingxin and others},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={1389--1402},
+  year={2025}
 }
 ```
